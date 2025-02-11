@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm ManfelDev 👋
 
-<!--
-**ManfelDev/ManfelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a game developer and student at Universidade Lusófona, passionate about creating engaging and technically challenging experiences. Here you can find repositories related to game development, AI, and various programming experiments.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+I'm currently improving my skills in:
+- **C# and Unity** 🚀
+- **Artificial Intelligence and Machine Learning** 🤖
+- **Virtual Reality (VR) Development** 🎮
+- **Image Processing** 🖼️
+- **Web Development** 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- **Email:** [rafaeldavidjose.dev@gmail.com](mailto:rafaeldavidjose.dev@gmail.com)
+- **LinkedIn:** [ManfelDev](https://www.linkedin.com/in/manfeldev)
+- **Itch.io:** [My Games](https://manfeldev.itch.io)
+
+## 📊 GitHub Stats
+![ManfelDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManfelDev&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories.
