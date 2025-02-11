@@ -13,7 +13,6 @@ I'm currently improving my skills in:
 ## 📫 How to Reach Me
 - **Email:** [rafaeldavidjose.dev@gmail.com](mailto:rafaeldavidjose.dev@gmail.com)
 - **LinkedIn:** [ManfelDev](https://www.linkedin.com/in/manfeldev)
-- **Itch.io:** [My Games](https://manfeldev.itch.io)
 
 ## ⚡ Fun Facts
 - I've also worked as a **game designer** in my projects.
@@ -22,6 +21,9 @@ I'm currently improving my skills in:
 
 ## 📊 GitHub Stats
 ![ManfelDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManfelDev&show_icons=true&theme=radical)
+
+## 🔗 More Links
+- [My Games](https://manfeldev.itch.io)
 
 ---
 
