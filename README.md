@@ -17,7 +17,7 @@ I'm currently improving my skills in:
 
 ## ⚡ Fun Facts
 - I've also worked as a **game designer** in my projects.
-- I enjoy designing **game systems**, from combat to progression mechanics.
+- I enjoy designing and making **game systems**, from combat to progression mechanics.
 - Big fan of **tech-driven design** and gameplay feel optimization.
 
 ## 📊 GitHub Stats
