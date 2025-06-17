@@ -20,7 +20,7 @@ I'm currently improving my skills in:
 - Big fan of **tech-driven design** and gameplay feel optimization.
 
 ## 📊 GitHub Stats
-![ManfelDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManfelDev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldavidjose)](https://github.com/rafaeldavidjose/github-readme-stats)
 
 ## 🔗 More Links
 - [My Games](https://manfeldev.itch.io)
