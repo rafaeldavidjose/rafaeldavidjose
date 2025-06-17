@@ -12,7 +12,7 @@ I'm currently improving my skills in:
 
 ## 📫 How to Reach Me
 - **Email:** [rafaeldavidjose.dev@gmail.com](mailto:rafaeldavidjose.dev@gmail.com)
-- **LinkedIn:** [ManfelDev](https://www.linkedin.com/in/manfeldev)
+- **LinkedIn:** [Rafael José](https://www.linkedin.com/in/rafaeldavidjose)
 
 ## ⚡ Fun Facts
 - I've also worked as a **game designer** in my projects.
@@ -24,7 +24,7 @@ I'm currently improving my skills in:
 
 ## 🔗 More Links
 - [My Portfolio](https://rafaeljose.pythonanywhere.com/portfolio/)
-- [My Games](https://manfeldev.itch.io)
+- [My Games](https://rafaeljose.itch.io)
 
 ---
 
