@@ -22,10 +22,6 @@ I'm currently improving my skills in:
 ## 📊 GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldavidjose)](https://github.com/rafaeldavidjose/github-readme-stats)
 
-## 🔗 More Links
-- [My Portfolio](https://rafaeljose.pythonanywhere.com/portfolio/)
-- [My Games](https://rafaeljose.itch.io)
-
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories.
