@@ -1,27 +1,38 @@
-# Hi there, I'm Rafael José 👋
+# 👋 Hi there, I'm Rafael José
 
-Welcome to my GitHub profile! I'm a game developer and student at Universidade Lusófona, passionate about creating engaging and technically challenging experiences. Here you can find repositories related to game development, AI, and various programming experiments.
+Welcome to my GitHub! I'm a **Gameplay Programmer**, **MSc Artificial Intelligence for Games** student, and **Teaching Assistant** at Universidade Lusófona.  
+I’m passionate about building **responsive, engaging gameplay systems** and exploring how **AI** and **technical design** can push interactive experiences forward.
 
-## 🌱 Currently Learning
-I'm currently improving my skills in:
-- **C# and Unity** 🚀
-- **Artificial Intelligence and Machine Learning** 🤖
-- **Virtual Reality (VR) Development** 🎮
-- **Image Processing** 🖼️
-- **Web Development** 🌐
-
-## 📫 How to Reach Me
-- **Email:** [rafaeldavidjose.dev@gmail.com](mailto:rafaeldavidjose.dev@gmail.com)
-- **LinkedIn:** [Rafael José](https://www.linkedin.com/in/rafaeldavidjose)
-
-## ⚡ Fun Facts
-- I've also worked as a **game designer** in my projects.
-- I enjoy designing and making **game systems**, from combat to progression mechanics.
-- Big fan of **tech-driven design** and gameplay feel optimization.
-
-## 📊 GitHub Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldavidjose)](https://github.com/rafaeldavidjose/github-readme-stats)
+Here you'll find projects ranging from **game mechanics prototypes** and **AI-driven behaviors** to **R&D experiments** and **tools** developed during academic and collaborative work.
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories.
+## 🌱 Currently Working On
+I’m actively improving my skills in:
+- **Gameplay Systems Programming** (C# & Unity) 🚀  
+- **Artificial Intelligence & Machine Learning** 🤖  
+- **VR Development & Interaction Design** 🥽  
+- **Image Processing & Computer Vision** 🖼️  
+- **Web Tools & Development** 🌐  
+
+---
+
+## 📫 Contact
+- **Email:** [rafaeldavidjose.dev@gmail.com](mailto:rafaeldavidjose.dev@gmail.com)  
+- **LinkedIn:** [Rafael José](https://www.linkedin.com/in/rafaeldavidjose)
+
+---
+
+## ⚡ A bit about me
+- I’ve designed and programmed a variety of **game systems**, including combat, progression, and AI behavior.  
+- I love solving **complex gameplay challenges** and making systems feel smooth, meaningful, and fun.  
+- My work is driven by a mix of **technical precision** and **design-oriented thinking**.
+
+---
+
+## 📊 GitHub Analytics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldavidjose&layout=compact&theme=dark)](https://github.com/rafaeldavidjose/github-readme-stats)
+
+---
+
+Thanks for stopping by — feel free to explore my repositories and projects! 🚀
