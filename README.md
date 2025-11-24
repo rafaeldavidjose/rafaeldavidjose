@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Rafael José
 
 Welcome to my GitHub! I'm a **Gameplay Developer**, **MSc Artificial Intelligence for Games** student, and **Teaching Assistant** at Universidade Lusófona.  
-I’m passionate about building **responsive, engaging gameplay systems** and exploring how **AI** and **technical design** can push interactive experiences forward.
+
+I’m passionate about building **responsive, engaging gameplay systems** and exploring how **AI** and **technical design** can push interactive experiences forward.  
 
 Here you'll find projects ranging from **game mechanics prototypes** and **AI-driven behaviors** to **R&D experiments** and **tools** developed during academic and collaborative work.
 
