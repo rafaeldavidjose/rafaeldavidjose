@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rafael David José
+# 👋 Hi there!
 
 Welcome to my GitHub! I'm a **Gameplay Developer**, **MSc Artificial Intelligence for Games** student, and **Teaching Assistant** at Universidade Lusófona.  
 
