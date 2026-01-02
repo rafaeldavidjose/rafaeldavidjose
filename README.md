@@ -31,9 +31,4 @@ I’m actively improving my skills in:
 
 ---
 
-## 📊 GitHub Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldavidjose&layout=compact&theme=dark)](https://github.com/rafaeldavidjose/github-readme-stats)
-
----
-
-Thanks for stopping by — feel free to explore my repositories and projects! 🚀
+Thanks for stopping by, feel free to explore my repositories and projects! 🚀
