@@ -18,7 +18,7 @@ I'm actively improving my skills in:
 ---
 
 ## 📫 Contact
-- **Email:** [hello@rafaeldavidjose.com](mailto:hello@rafaeldavidjose.com)  
+- **Email:** [contact@rafaeldavidjose.com](mailto:contact@rafaeldavidjose.com)  
 - **LinkedIn:** [Rafael David José](https://www.linkedin.com/in/rafaeldavidjose)
 
 ---
