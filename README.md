@@ -1,33 +1,36 @@
-# 👋 Hi there!
-Welcome to my GitHub! I'm a **Gameplay Developer**, **MSc Artificial Intelligence for Games** student, **Teaching Assistant**, and **Game Developer at HEI-Lab** at Universidade Lusófona.  
+# Rafael David José
 
-I'm passionate about building **responsive, engaging gameplay systems** and exploring how **AI** and **technical design** can push interactive experiences forward.  
-
-Here you'll find projects ranging from **game mechanics prototypes** and **AI-driven behaviors** to **R&D experiments** and **tools** developed during academic and collaborative work.
+**Gameplay Developer · MSc AI for Games · Teaching Assistant · Game Developer @ HEI-Lab**  
+Universidade Lusófona, Lisbon, Portugal
 
 ---
 
-## 🌱 Currently Working On
-I'm actively improving my skills in:
-- **Gameplay Systems Programming** (C# & Unity) 🚀  
-- **Artificial Intelligence & Machine Learning** 🤖  
-- **VR Development & Interaction Design** 🥽  
-- **Serious Games & Research Applications** 🎮  
-- **Web Tools & Development** 🌐  
+## About
+
+I build gameplay systems, AI behaviors, and interactive experiences — from combat and progression mechanics to reinforcement learning agents and research simulations. Currently pursuing an MSc in Artificial Intelligence for Games while working as a Teaching Assistant and Game Developer at HEI-Lab.
 
 ---
 
-## 📫 Contact
-- **Email:** [contact@rafaeldavidjose.com](mailto:contact@rafaeldavidjose.com)  
-- **LinkedIn:** [Rafael David José](https://www.linkedin.com/in/rafaeldavidjose)
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaeldavidjose&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldavidjose&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## ⚡ A bit about me
-- I've designed and programmed a variety of **game systems**, including combat, progression, and AI behavior.  
-- I love solving **complex gameplay challenges** and making systems feel smooth, meaningful, and fun.  
-- My work is driven by a mix of **technical precision** and **design-oriented thinking**.
+## Tech Stack
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-Thanks for stopping by, feel free to explore my repositories and projects! 🚀
+## Contact
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafaeldavidjose.com-f39c12?style=for-the-badge)](https://rafaeldavidjose.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_David_José-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeldavidjose)
+[![Email](https://img.shields.io/badge/Email-contact@rafaeldavidjose.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@rafaeldavidjose.com)
